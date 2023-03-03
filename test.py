@@ -41,7 +41,7 @@ while not isWin:
                 break
 
     if xod > 9:
-        print('кончились ходы...Ничья')
+        print('у Вас кончились ходы...Ничья')
         break
 
     clear()
