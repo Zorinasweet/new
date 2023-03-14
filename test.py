@@ -10,7 +10,7 @@ clear = lambda: os.system('clear')
 isWin = False
 
 while not isWin:
-
+    print('Итак, начнем!')
     a = 0
     for i in range(3):
         for j in range(3):
@@ -46,4 +46,4 @@ while not isWin:
 
     clear()
     xod += 1
-print('Конец игры!')
+print('Конец игры! а может нет')
